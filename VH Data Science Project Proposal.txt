@@ -1,0 +1,9 @@
+Vincent Hughes Data Science Project
+
+Create a GitHub repository for your project and include a short description answering the following questions:
+•	What is the problem statement? - How much of a role does GDP growth (or contraction) play in a country's relative attractiveness for migrants?  
+•	What is your objective? - There are many reasons why people decide, to leave their home coutry to state either a completely new life or even a temporary one. 
+ I want to see if economic opportunity is a drving factor or if other reasons such a availability of social benefits, or other intangible such as perceptions of safety come into play.  
+•	What data will you use? - I will use the OECD's International Migration Database, along with Growth in GDP per capita, productivity and ULC  Meta Data. 
+•	Why did you choose this topic? - I am a political science major (from a long time ago!) that has always had an interest in the international sphere as well as numbers.  
+With the refugee crisis in Europe making the news on a daily basis, I cannot help but have it in the forfront of my mind.   
